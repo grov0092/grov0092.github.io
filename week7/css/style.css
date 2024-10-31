@@ -16,7 +16,7 @@ html{
     margin: 10px;
 }
 main{
-    width: 350px;
+    height: 350px;
 }
 a{
     visibility: hidden;

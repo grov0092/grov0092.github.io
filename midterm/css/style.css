@@ -1,0 +1,132 @@
+html{
+    background-color: #aad4cf;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    
+}
+.container{
+    position: relative;
+    text-align: center;
+}
+.centerText{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 100px;
+    color:white;
+    
+}
+img{
+    margin: auto;
+}
+.container1{
+    position: fixed;
+    max-width: 600px;
+    border: 2px solid red;
+    margin:  300px;
+    
+}
+.box{
+    
+    
+    max-width: 1500px;
+    margin: 0 auto;
+    background-color: #c2d2d1;
+}
+.container2{
+    
+}
+.box1{
+    
+    width: 496px;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+
+}
+.box2{
+    border-left: 2px solid black;
+    width: 496px;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+}
+.box3{
+    border-left: 2px solid black;
+    width: 496px;
+    text-align: center;
+    font-size: 30px;
+    float: left;
+    
+}
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    padding-top: 40px;
+    margin: 0px 10px;
+}
+.p1{
+    padding: 5px;
+    font-size: 23px;
+    margin: 2px;
+}
+article img{
+    margin: 20px;
+    float: left;
+}
+h3{
+    font-size: 35px;
+    font-weight: 400;
+    margin: 0px 10px;
+}
+ul{
+    font-size: 23px;
+}
+h4{
+    font-size: 40px;
+    font-weight: 400;
+}
+form{
+    line-height: 2;
+    font-size: 30px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}
+article{
+    padding: 10px;
+}
+h4{
+    padding: 0px 10px;
+}
+.name{
+    height: 40px;
+    width: 1450px;
+}
+.email{
+    height: 40px;
+    width: 1450px;
+}
+.message{
+    height: 120px;
+    width: 1450px;
+}
+input[type=submit]{
+    background-color: #c2d2d1;
+  border: 2px solid black;
+  padding: 10px 15px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.copyright{
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
